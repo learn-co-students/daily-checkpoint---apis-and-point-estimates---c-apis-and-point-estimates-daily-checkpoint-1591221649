@@ -115,7 +115,12 @@ plt.show()
 
 ### 5) Compare statistics for the sample compared to the overall population
 
-Find the mean and standard deviation of `hourly_rate` within `df` compared to `df_sample`.  How are they similar to and different from each other?  Would you say that the sample of 500 employees was a "representative" sample?  You can include insights from the graphs above in your analysis
+Discuss how `hourly_rate` in the sample compares to `hourly_rate` in the population:
+- Compare measures of central tendency and spread for each
+
+- Make an argument that `hourly_rate` in the sample of 500 employees either does or does not adequately represent `hourly_rate` in the population.  
+
+You can include insights from the graphs above in your analysis
 
 
 ```python
